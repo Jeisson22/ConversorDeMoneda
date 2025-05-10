@@ -26,6 +26,7 @@ Un proyecto en Java con Maven que convierte USD a varias monedas latinoamericana
 
 ## 🗂️ Estructura del Proyecto
 
+![Captura de pantalla 2025-05-09 185153](https://github.com/user-attachments/assets/c6d01caa-c652-43c3-8083-8c2cd49ff155)
 
 
 
@@ -39,4 +40,4 @@ A Java library to access [Dropbox's HTTP-based Core API v2](https://www.dropbox.
 
 License: [MIT](License.txt)
 
-Documentation: [Javadocs](https://dropbox.github.io/dropbox-sdk-java/api-docs/v5.4.3/)
+Documentation: [Javadocs](https://dropb
